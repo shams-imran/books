@@ -1,9 +1,9 @@
 # Books List
 
 * [Algorithms](Algorithms)
-  - [Introduction to Algorithms](Algorithms/Introduction to Algorithms.pdf)
+  - [Introduction to Algorithms](Algorithms/Introduction%20to%20Algorithms.pdf)
 * [Database](Database)
-  - [High Performance MySQL (3rd Edition)-O'Reilly](Database/High Performance MySQL_3rd Edition_O'Reilly.pdf)
+  - [High Performance MySQL (3rd Edition)-O'Reilly](Database/High%20Performance%20MySQL_3rd%20Edition_O'Reilly.pdf)
 * [Hadoop](Hadoop)
   - [Hadoop The Definitive Guide 4th Edition Storage and Analysis at Internet Scale](Hadoop/Hadoop%20The%20Definitive%20Guide,%204th%20Edition%20%20Storage%20and%20Analysis%20at%20Internet%20Scale.pdf)
   - [Practical Hadoop Ecosystem A Definitive Guide to Hadoop Related Frameworks and Tools](Hadoop/Practical%20Hadoop%20Ecosystem%20A%20Definitive%20Guide%20to%20Hadoop%20Related%20Frameworks%20and%20Tools.pdf)
