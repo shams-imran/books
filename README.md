@@ -15,3 +15,5 @@
   - [Designing data intensive applications](System%20Design/designing-data-intensive-applications.pdf)
   - [Grokking the system design interview](System%20Design/Grokking-the-system-design-interviewpdf-5-pdf-free%20(1).pdf)
   - [System design interview an insiders guide](System%20Design/system-design-interview-an-insiders-guidepdf_compress.pdf)
+  - [System-design-interview-an-insiders-guide-volume-1](System%20Design/system-design-interview-an-insiders-guide-volume-1.pdf)
+  - [System-design-interview-an-insiders-guide-volume-2](System%20Design/system-design-interview-an-insiders-guide-volume-2.pdf)
